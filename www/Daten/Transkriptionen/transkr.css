@@ -1,0 +1,46 @@
+body		        {background-color:#F0F0F0;}
+
+.img {
+ display:block;
+ text-align:right;
+}
+
+.back-btn {
+ display:block;
+ text-align:left;
+ float:left;"
+}
+
+ h1 			{ font-family:Arial,sans-serif; font-size:12pt; font-weight:bold;}
+ h2			{ font-family:Arial,sans-serif; font-size:12pt; text-align:center; }
+ a:link			{ text-decoration:none; color:black }
+ a:visited		{ text-decoration:none; color:black }
+ a:hover		{ text-decoration:none;  color:black }
+ a:active		{ text-decoration:none; color:black }
+.init			{ color:red; font-size:16pt }
+.xinit			{ color:red; font-size:10pt }
+.minit			{ color:red; font-size:30pt }
+.hvh			{ color:#FF6600; }
+.chvh			{ color:#FF6600; font-size:18pt}
+.xhvh			{ color:#FF6600; font-size:10pt}
+.k		        { color:#666666; }
+.ls  			{ color:#33FFFF; }
+.sr	        	{ color:green; }
+.del			{ text-decoration:line-through; }
+.ras			{ background-color:gray }
+.rekl			{ color:brown; }
+.ir				{ color: red; font-weight: bold;}
+.xi				{color:#FF6600; font-size: 9pt;}
+
+
+.vers {
+	font-family: Lucida Grande, Junicode, Times New Roman, serif;
+}
+.versnr			{ font-weight: normal; font-size: 0.8em; margin-right:6px;}
+
+.cad			{ color:#FF6600;}
+.del			{ text-decoration:line-through; }
+.seitenangabe		{color:blue; font-weight:bold;}
+.nota {
+font-style:italic;
+}
